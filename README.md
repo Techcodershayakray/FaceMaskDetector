@@ -13,11 +13,11 @@ wearing/removing mask and display of prediction.
 
 ### With Mask
 
-![image](mask.png)
+![image](https://thumbs.dreamstime.com/b/set-cartoon-front-view-vector-man-woman-wearing-protective-face-mask-covid-safety-measures-restriction-covering-to-185538995.jpg)
 
 ### No Mask
 
-![image](nomask.png)
+![image](https://img.favpng.com/17/4/21/surgical-mask-surgery-cartoon-respirator-png-favpng-BvjGUFDCPJ3kUYh1hWcD9yBB5.jpg)
 
 
 
